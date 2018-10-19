@@ -4386,7 +4386,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="2" x="-1.9186" y="0.3184" dx="0.35" dy="0.7" layer="1" roundness="100" rot="R270" stop="no" thermals="no" cream="no"/>
 <smd name="3" x="-1.9186" y="-0.3316" dx="0.35" dy="0.7" layer="1" roundness="100" rot="R270" stop="no" thermals="no" cream="no"/>
 <smd name="4" x="-1.9186" y="-0.9816" dx="0.35" dy="0.7" layer="1" roundness="100" rot="R270" stop="no" thermals="no" cream="no"/>
-<smd name="17" x="-0.0066" y="-0.0066" dx="2.7" dy="2.7" layer="1" stop="no" thermals="no" cream="no"/>
+<smd name="17" x="-0.0066" y="-0.0066" dx="2.7" dy="2.7" layer="1" cream="no"/>
 <wire x1="-0.9826" y1="-1.7406" x2="-0.9826" y2="-2.0906" width="0.35" layer="29"/>
 <wire x1="-0.3326" y1="-1.7406" x2="-0.3326" y2="-2.0906" width="0.35" layer="29"/>
 <wire x1="0.3174" y1="-1.7406" x2="0.3174" y2="-2.0906" width="0.35" layer="29"/>
