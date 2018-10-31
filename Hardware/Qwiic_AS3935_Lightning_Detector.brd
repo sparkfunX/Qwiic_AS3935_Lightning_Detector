@@ -153,7 +153,7 @@
 <wire x1="25.4" y1="0" x2="25.4" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="25.4" x2="0" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="0" y1="25.4" x2="0" y2="0" width="0.2032" layer="20"/>
-<text x="20.447" y="-10.287" size="1.778" layer="51" font="vector">Elias Santistevan</text>
+<text x="19.177" y="-19.177" size="1.778" layer="51" font="vector">Elias Santistevan</text>
 <text x="23.368" y="1.143" size="1.27" layer="16" font="vector" rot="MR0" align="center">x02</text>
 </plain>
 <libraries>
@@ -4764,9 +4764,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </pass>
 </autorouter>
 <elements>
-<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-6.35" y="-10.16" smashed="yes">
-<attribute name="DESIGNER" value="" x="-6.35" y="-10.16" size="1.778" layer="27" display="off"/>
-<attribute name="REV" value="" x="-6.35" y="-10.16" size="1.778" layer="27" display="off"/>
+<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-7.62" y="-19.05" smashed="yes">
+<attribute name="DESIGNER" value="" x="-7.62" y="-19.05" size="1.778" layer="27" display="off"/>
+<attribute name="REV" value="" x="-7.62" y="-19.05" size="1.778" layer="27" display="off"/>
 </element>
 <element name="J1" library="SparkFun-Connectors" package="1X04_1MM_RA" value="" x="5.08" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.921" y="14.097" size="0.6096" layer="25" font="vector" ratio="20" rot="R270"/>
@@ -4972,9 +4972,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="17.78" y1="6.604" x2="17.78" y2="5.461" width="0.2032" layer="16"/>
 <wire x1="12.7066" y1="12.7066" x2="12.3816" y2="13.0316" width="0.254" layer="1"/>
 <wire x1="12.3816" y1="13.0316" x2="12.3816" y2="13.208" width="0.254" layer="1"/>
-<wire x1="12.3816" y1="13.208" x2="12.3816" y2="14.6166" width="0.254" layer="1"/>
 <wire x1="12.7066" y1="12.7066" x2="13.0316" y2="12.3816" width="0.254" layer="1"/>
-<wire x1="13.0316" y1="12.3816" x2="14.6186" y2="12.3816" width="0.254" layer="1"/>
 <wire x1="14.6186" y1="13.6816" x2="12.8552" y2="13.6816" width="0.254" layer="1"/>
 <wire x1="12.8552" y1="13.6816" x2="12.3816" y2="13.208" width="0.254" layer="1"/>
 <via x="15.494" y="14.351" extent="1-16" drill="0.3048"/>
