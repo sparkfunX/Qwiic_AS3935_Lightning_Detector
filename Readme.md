@@ -1,9 +1,8 @@
 SparkX Qwiic AS3935 Lightning Detector
 ========================================
 
-![Qwiic AS3925 Lightning Detector]()
-
-[*SparkX Qwiic AS3935 LIghtning Detector ()*]()
+![Qwiic AS3925 Lightning Detector](https://cdn.sparkfun.com/assets/parts/1/3/4/0/1/15057-Qwiic_AS3935_Lightning_Detector-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/3/4/0/1/15057-Qwiic_AS3935_Lightning_Detector-01.jpg)
+[*SparkX Qwiic AS3935 LIghtning Detector (SPX-15057)*](https://www.sparkfun.com/products/15057)
 
 Repository Contents
 -------------------
