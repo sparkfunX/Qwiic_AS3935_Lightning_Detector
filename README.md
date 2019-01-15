@@ -15,7 +15,7 @@ Repository Contents
 Documentation
 --------------
 * **[Installing an Arduino Library](https://learn.sparkfun.com/tutorials/installing-an-arduino-library/)** - Basic instructions on installing an Arduino library
-* **[Library](https://github.com/sparkfunX/Sparkfun_AS3935_Arduino_Library)** - Arduino library for the Qwiic AS3935 Lightning Detector
+* **[Library](https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Library)** - Arduino library for the Qwiic AS3935 Lightning Detector
 
 License Information
 -------------------
